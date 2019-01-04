@@ -1,4 +1,4 @@
-#Super simple example of [Context](https://reactjs.org/docs/context.html) in React
+# Super simple example of [Context](https://reactjs.org/docs/context.html) in React
 
 The purpose of this document is only to show you how value from Provider is passed to Consumer. Nothing else.
 
