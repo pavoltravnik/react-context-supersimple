@@ -6,7 +6,7 @@ function NestedContent () {
       <div className="NestedContent">
 	      	<ThemeContext.Consumer>
 	      		{value => <div>{value.name} {value.surname}</div>}
-			</ThemeContext.Consumer>
+		</ThemeContext.Consumer>
       </div>
     );
 }
